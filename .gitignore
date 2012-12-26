@@ -1,5 +1,6 @@
 turbulence
 .rvmrc
+*.swp
 
 # Bundler
 .bundle
